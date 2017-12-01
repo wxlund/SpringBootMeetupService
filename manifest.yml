@@ -1,0 +1,9 @@
+---
+applications:
+- name: spring-boot-meetup-service
+  memory: 1G
+  random-route: false
+  path: target/sb-s1p-1.0-SNAPSHOT.jar
+  services:
+  - cassandra
+

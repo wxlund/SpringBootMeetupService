@@ -1,4 +1,0 @@
-com/datastax/springboot/s1p/Application.class
-com/datastax/springboot/s1p/controller/MeetupController.class
-com/datastax/springboot/s1p/repositories/EventRepository.class
-com/datastax/springboot/s1p/model/Event.class
